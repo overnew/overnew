@@ -42,7 +42,13 @@
     <p><strong>AI</strong></p>
     <div>
         <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-</div><br>
+    </div>
+    <!-- Other -->
+    <p><strong>Other</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+    </div>
+    <br>
 </div>
 
 ### Git stat
