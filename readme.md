@@ -55,4 +55,4 @@
 
 <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/overnew?theme=light,unicorn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/overnew?theme=light,unicorn)](https://leetcode.com/overnew)
