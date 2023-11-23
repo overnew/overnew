@@ -47,6 +47,7 @@
     <p><strong>Other</strong></p>
     <div>
         <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
+        <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> 
     </div>
     <br>
 </div>
